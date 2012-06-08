@@ -10,7 +10,7 @@ def version
 end
   
 def project_name
-  'tiny-cms'
+  File.basename(Dir.pwd)
 end
   
 task :build do
