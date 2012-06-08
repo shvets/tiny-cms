@@ -1,4 +1,4 @@
-tiny_cms
+tiny-cms
 ========
 
 Simple placeholder for CMS
